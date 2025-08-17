@@ -1,0 +1,16 @@
+C:\Users\bumbl\Documents\Projects\P2AssetCacher\bin\Debug\net9.0-windows\P2AssetCacher.exe
+C:\Users\bumbl\Documents\Projects\P2AssetCacher\bin\Debug\net9.0-windows\P2AssetCacher.deps.json
+C:\Users\bumbl\Documents\Projects\P2AssetCacher\bin\Debug\net9.0-windows\P2AssetCacher.runtimeconfig.json
+C:\Users\bumbl\Documents\Projects\P2AssetCacher\bin\Debug\net9.0-windows\P2AssetCacher.dll
+C:\Users\bumbl\Documents\Projects\P2AssetCacher\bin\Debug\net9.0-windows\P2AssetCacher.pdb
+C:\Users\bumbl\Documents\Projects\P2AssetCacher\obj\Debug\net9.0-windows\P2AssetCacher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bumbl\Documents\Projects\P2AssetCacher\obj\Debug\net9.0-windows\P2AssetCacher.AssemblyInfoInputs.cache
+C:\Users\bumbl\Documents\Projects\P2AssetCacher\obj\Debug\net9.0-windows\P2AssetCacher.AssemblyInfo.cs
+C:\Users\bumbl\Documents\Projects\P2AssetCacher\obj\Debug\net9.0-windows\P2AssetCacher.csproj.CoreCompileInputs.cache
+C:\Users\bumbl\Documents\Projects\P2AssetCacher\obj\Debug\net9.0-windows\P2AssetCacher.dll
+C:\Users\bumbl\Documents\Projects\P2AssetCacher\obj\Debug\net9.0-windows\refint\P2AssetCacher.dll
+C:\Users\bumbl\Documents\Projects\P2AssetCacher\obj\Debug\net9.0-windows\P2AssetCacher.pdb
+C:\Users\bumbl\Documents\Projects\P2AssetCacher\obj\Debug\net9.0-windows\P2AssetCacher.genruntimeconfig.cache
+C:\Users\bumbl\Documents\Projects\P2AssetCacher\obj\Debug\net9.0-windows\ref\P2AssetCacher.dll
+C:\Users\bumbl\Documents\Projects\P2AssetCacher\obj\Debug\net9.0-windows\P2AssetCacher.Form1.resources
+C:\Users\bumbl\Documents\Projects\P2AssetCacher\obj\Debug\net9.0-windows\P2AssetCacher.csproj.GenerateResource.cache
